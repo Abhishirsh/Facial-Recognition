@@ -8,12 +8,22 @@ Download link: https://www.kaggle.com/aadityasinghal/facial-expression-dataset
 
 
 Libraries
+
 pandas
+
 numpy
+
 matplotlib
+
 keras
+
 tensorflow
+
 scikit-learn
+
+
 Neural Network
+
 CNN Network
+
 Accuracy: 64.00
